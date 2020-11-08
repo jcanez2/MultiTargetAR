@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Dogs>
+
+<Dog>
+  <Name>
+  	<First>Mr Frank</First>
+  	<Last>Barko</Last>
+  </Name>
+  <Tags>
+  	<Id>59974</Id>
+  	<Trick trained="yes">Roll Over</Trick>
+  </Tags>
+  <Owner>
+  	<OName>James Petterson</OName>
+  	<Phone mobile="yes">2204444</Phone>
+  </Owner>
+  <Breed>Bulldog</Breed>
+</Dog>
+
+<Dog>
+  <Name>
+  	<First>Libby</First>
+  	<Last>Canez</Last>
+  </Name>
+  <Tags>
+  	<Id>598974</Id>
+  	<Trick trained="yes">Shake</Trick>
+  </Tags>
+  <Owner>
+  	<OName>Lippy</OName>
+  	<Phone mobile="yes">8497901</Phone>
+  </Owner>
+  <Breed>German Shepard</Breed>
+</Dog>
+
+<Dog>
+  <Name>
+  	<First>Blue</First>
+  	<Last>Bones</Last>
+  </Name>
+  <Tags>
+  	<Id>999939</Id>
+  	<Trick trained="yes">Catch Ball</Trick>
+  </Tags>
+  <Owner>
+  	<OName>Pepper Pots</OName>
+  	<Phone mobile="yes">5555555</Phone>
+  </Owner>
+  <Breed>Mutt</Breed>
+</Dog>
+
+
+</Dogs>
